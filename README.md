@@ -12,7 +12,15 @@ Current projects will have the *"Current-project"* tag.
 
 Old projects **NOT** for public release will have *"Archived-not-public-use",* and releases for public use will have *"Public-use"* assigned.
 
+these will also be under the "releases" section along with a list here when they are published.
+
 **Please respect the meaning of the tags.**
+
+### Releases and status
+
+| Name | Archived-not-public-use | Public-Use | Current-project |
+| --- | --- | --- | --- |
+| Password check (pass) | :x: | :white_check_mark: | :x: |
 
 ### Contact and socials
 You can contact me in various ways:
