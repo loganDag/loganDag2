@@ -8,9 +8,15 @@ Security is **AS IS, NOT GUARANTEED, AND HAS NO WARRANTY.**
 
 Any current project being developed will have security pages as well.
 
-Current projects will have the *"Current-project"* tag.
+- Current projects will have the *"Current-project"* tag. May be only given a READme with a link to another repo, depending on size and complexity.
 
-Old projects **NOT** for public release will have *"Archived-not-public-use",* and releases for public use will have *"Public-use"* assigned.
+- Old projects **NOT** for public release will have *"Archived-not-public-use"*.
+
+- Releases for public use will have *"Public-use"* assigned.
+
+- Projects that may be restarted later on will be assigned the *"Be-Revived-Later"* tag. These may be projects that were once abandoned and might be worked and re-worked later in the future. These projects will also most likely have only a READme here and their own repo, especially if they will be turned into an *"Current-Project"*.
+
+- The *"Future-Project"* tag will be assigned to projects and things that I might work on later, most likely given their own repo, and will probably only have a READme file in their folder here.
 
 these will also be under the "releases" section along with a list here when they are published.
 
@@ -18,9 +24,9 @@ these will also be under the "releases" section along with a list here when they
 
 ### Releases and status
 
-| Name | Archived-not-public-use | Public-Use | Current-project |
-| --- | --- | --- | --- |
-| Password check (pass) | :x: | :white_check_mark: | :x: |
+| Name | Archived-not-public-use | Public-Use | Current-project | Be-Revived-Later | Future-Project |
+| --- | --- | --- | --- | --- | --- |
+| Password check (pass) | :x: | :white_check_mark: | :x: | :x: | :x: |
 
 ### Contact and socials
 You can contact me in various ways:
